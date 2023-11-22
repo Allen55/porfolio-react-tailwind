@@ -34,7 +34,7 @@ export default function Home() {
                 />
               </li>
               <li>
-                <a className="ml-8" href="">Porfolio</a>
+                <a className="ml-8" href="">Portfolio</a>
                 </li>
               <li>
                 <a
